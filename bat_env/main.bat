@@ -113,6 +113,3 @@ if exist  %Global_Bat_HOME%\log\erro.log (blat %Global_Bat_HOME%\log\erro.log -t
 
 
 
-
-
-
